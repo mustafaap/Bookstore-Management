@@ -41,7 +41,3 @@ The Book Store Management application is an object-oriented Java program designe
 
 2. Compile and run the Java file containing the main application logic.
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
